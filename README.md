@@ -39,15 +39,15 @@ NameLuX is a Python3-based tool designed for customizing the Termux interface by
 
 3. Clone this repository to your local machine:
 
-    ```git clone https://github.com/MrHacker-X/NameLuX.git```
+    ```git clone https://github.com/Yusuf-Ardiansyah/termux.git```
 
 4. Navigate to the NameLuX directory in your Termux environment.
 
-    `cd NameLuX`
+    `cd termux`
 
 5. Run the namelux.py script:
 
-    `python namelux.py`
+    `python termux.py`
 
 ## Screenshot
 
