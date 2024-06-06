@@ -1,4 +1,4 @@
-<h1 align="center">NameLuX</h1>
+<h1 align="center">ANDROID - TUTORIAL</h1>
 
 <p align="center"> 
   <img src="https://img.shields.io/github/stars/MrHacker-X/NameLuX?style=for-the-badge&color=orange">
